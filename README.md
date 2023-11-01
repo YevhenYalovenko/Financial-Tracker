@@ -1,7 +1,6 @@
 # Django application
 
 ---
-[![Main workflow](https://github.com/hillel-i-python-pro-i-2023-06-23/Django_base_project_YY/actions/workflows/main-workflow.yml/badge.svg)](https://github.com/hillel-i-python-pro-i-2023-06-23/Django_base_project_YY/actions/workflows/main-workflow.yml)
 ## 🏠 Django project
 
 Financial tracker
